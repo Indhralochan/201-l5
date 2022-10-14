@@ -18,7 +18,7 @@
   "production": {
     "username": "postgres",
     "password": "indra123",
-    "database": "todo_db_prod",
+    "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
