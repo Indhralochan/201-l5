@@ -28,13 +28,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kshitijv256/Todo-app-with-sequelize.git"
   },
-  "author": "Kshitij Verma <kshitijv250@gmail.com>",
+  "author": "indhra lochan kumar <indra.lochans@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kshitijv256/Todo-app-with-sequelize/issues"
-  },
-  "homepage": "https://github.com/kshitijv256/Todo-app-with-sequelize#readme",
   "description": ""
 }
